@@ -11,11 +11,14 @@ _This project will help him get his answers._
 Visualizing can be useful for making business decisions. The data visualization tool I would use is Tableau for making the overview dashboard. Making the dashboard clean and specific will help save time and resources. 
 ### Project excecution
 1. Project's goal.
-...Creating a dashboard for sales team to automate the data gathering process in order to provide useful insight information.
+  * Creating a dashboard for sales team to automate the data gathering process in order to provide useful insight information.
 2. Identify the stakeholders.
-...* Sales Director
-...* Marketing team
-...* Customer services
-...* Data Analysts
+  * Sales Director
+  * Marketing team
+  * Customer services
+  * Data Analysts
 3. Project's result
+  * Dashboard that updates latest sales insights to help stakeholders make better business decision.
 4. Sucessful criterias
+  * Talking the problem and increasing sales for the company.
+ 
