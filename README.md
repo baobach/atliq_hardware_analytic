@@ -6,3 +6,16 @@ AtLiq Hardware is a computer hardware manufacturer in India. Bhavin Patel is Atl
 3. Top 5 customers by revenue and sales quantity.
 4. Top 5 products by revenue.
 _This project will help him get his answers._
+## Tackle the problem
+### Visualize the data
+Visualizing can be useful for making business decisions. The data visualization tool I would use is Tableau for making the overview dashboard. Making the dashboard clean and specific will help save time and resources. 
+### Project excecution
+1. Project's goal.
+.. Creating a dashboard for sales team to automate the data gathering process in order to provide useful insight information.
+3. Identify the stakeholders.
+.. * Sales Director
+.. * Marketing team
+.. * Customer services
+.. * Data Analysts
+4. Project's result
+5. Sucessful criterias
