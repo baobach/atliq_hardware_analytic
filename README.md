@@ -20,5 +20,5 @@ Visualizing can be useful for making business decisions. The data visualization 
 3. Project's result
   * Dashboard that updates latest sales insights to help stakeholders make better business decision.
 4. Sucessful criterias
-  * Talking the problem and increasing sales for the company.
+  * Tackling the main problem that causes the declining in sales of the company. Saving time and company resources.
  
