@@ -1,5 +1,5 @@
 # AtliQ Hardware Sales Data Analytic
-[Tableau Public Dashboard](https://public.tableau.com/shared/MNW4F6MY7?:display_count=n&:origin=viz_share_link)
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/bao.bach/viz/AtliQSalesAnalyticDashboard/Dashboard1?publish=yes)
 ## The big problem
 AtLiq Hardware is a computer hardware manufacturer in India. Bhavin Patel is AtliQ's Sales Diretor and he had noticed the declining in sales of the company laterly. He asked regional managers for the sales data and, in return, he received spreadsheets without any useful insight information. So he sent a request to the data team to help him answer few questions.
 1. Revenue breakdown by cities.
